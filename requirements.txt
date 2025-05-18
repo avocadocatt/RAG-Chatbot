@@ -1,0 +1,6 @@
+python-dotenv
+google-generativeai
+pinecone
+langchain
+fastapi
+uvicorn
