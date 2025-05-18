@@ -1,4 +1,6 @@
 # RAG-Chatbot
+This project implements a Retrieval Augmented Generation (RAG) chatbot powered by Google's Gemini models for embeddings and generation, and Pinecone as the vector database. It allows users to query information from their own documents by first indexing them into Pinecone and then using an LLM to generate answers based on retrieved context. The application is exposed via a FastAPI interface.
+
 Install `python 3.12` from [Link download Python 3.12 version](https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe).
 
 ## Install needed library
